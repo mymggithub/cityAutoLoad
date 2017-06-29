@@ -1,7 +1,4 @@
-	/*
-	Created By: Mark Garcia
-	
-	*/
+
 	onerror= function(message,url, line){
 		out ="Error :"+message+"\n";
 		out +="Url :"+url+"\n";	
